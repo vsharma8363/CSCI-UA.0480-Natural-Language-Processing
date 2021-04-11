@@ -1,0 +1,10 @@
+The program can be run using the following command:
+
+> python vas360_HW4.py
+
+The following files MUST be in the same working directory as the python program:
+
+> cran.all.1400
+> cran.qry
+
+* These file names are hardcoded in the python program, therefore, the change the files for query values and abstracts, please modify the filenames directly inside the python file.
